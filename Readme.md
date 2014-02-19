@@ -1,3 +1,6 @@
+# UPDATE:
+[Rodrigo Rosenfeld Rosas](https://github.com/rosenfeld) merged these changes into his [sequel-devise gem](https://github.com/rosenfeld/sequel-devise) so just use that. This repo will remain for some time for historical purposes.
+
 ## What's this?
 This gem fixes an issue I had with *Sequel* and *Devise* (specifically the *Confirmable* module).
 
